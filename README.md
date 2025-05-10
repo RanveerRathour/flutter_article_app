@@ -1,6 +1,6 @@
 # Flutter Article App
-A Flutter app that fetches and displays a list of articles from a public
-API.
+A Flutter app that fetches and displays a list of articles from a public API.
+
 ## Features
 - Article listings
 - Favorite article tracking
@@ -30,11 +30,11 @@ API.
 ## Known Issues / Limitations
   As such there is no issues, but scope of improvements. Like in search screen we can use debouncer to avoid unnecessary search call while user is still typing.
 
-## Screenshots (Optional)
+## Screenshots
 
-<img src="https://github.com/user-attachments/assets/e60de8e4-1e30-431b-af3d-7ecb99cf2e84" width="300">
-<img src="https://github.com/user-attachments/assets/849f464e-f417-4c39-b23a-4f1400015d04" width="300">
-<img src="https://github.com/user-attachments/assets/37ba367c-d5d3-4833-8cd9-cc76579bba48" width="300">
+<img src="https://github.com/user-attachments/assets/6b72f034-c853-4fce-9bfd-9b62ab7982db" width="300">
+<img src="https://github.com/user-attachments/assets/1313d511-93a3-4cb9-87e5-53cfc895de67" width="300">
+<img src="https://github.com/user-attachments/assets/78aa92e9-b778-4587-a07f-e3a574f759a5" width="300">
 
 
 
